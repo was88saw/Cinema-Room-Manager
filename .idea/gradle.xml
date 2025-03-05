@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/About abstract classes" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Calculating areas of rectangles and circles" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Incorrect declaration" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Parts of an abstract class" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/And always these rules" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Capture variables" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Exploring Java's Anonymous Classes" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Find a correct syntax" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Tricky Java  Final in Anonymous Classes" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/What about context" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/No exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Where an exception occurs" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Alternative code" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncommented comments" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Developing an animal sound system for a zoo" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Implementing an interface" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Talking with your pets" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/What are we implementing now" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/What can an interface have" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/What does an interface define" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Add new default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implementing a greeting interface" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/What is the reason for default methods" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Display an Integer" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Find the correct Statement" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Format-Specifiers" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Integer Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/The battle for Mathematics" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Rules for overriding" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Which methods cannot be overridden" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Creating a diagonally striped pattern in a matrix" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Reverse elements" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/The third row" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Calculating arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Find a way" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Square a user-inputted integer" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Strong protection" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Applying reflection" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Declared fields" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Not a class" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Reflection and Performance" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Reflection's drawbacks" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Code output" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/forName method syntax" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/getClass method" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Counting 2D shapes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/File equality" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Find a statement that returns false" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Hierarchy of classes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching in practice" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching with the logical OR operator" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Sum of the areas" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Three classes and two objects" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Who is who" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Brewing up a digital bean counter" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Declaring and printing different variable types" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Forge your digital destiny" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Warming up with a temperature tweak" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Elements of a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Find a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Find a word that is not a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/The first program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

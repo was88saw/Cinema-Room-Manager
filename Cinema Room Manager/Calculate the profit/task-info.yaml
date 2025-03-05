@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/cinema/Cinema.java
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+  - name: src/cinema/Main.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11106#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 01 Mar 2025 22:02:49 UTC"
+record: 2

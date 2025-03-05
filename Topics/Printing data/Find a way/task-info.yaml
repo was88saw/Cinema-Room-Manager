@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: By using System.out.show
+  - text: By using System.out.print
+  - text: By using System.out.println
+  - text: By using System.out.display
+  - text: By using System.out.showln
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26365#comment
+status: Solved
+record: -1
+local_check: false

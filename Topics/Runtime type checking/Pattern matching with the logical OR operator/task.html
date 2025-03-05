@@ -1,0 +1,15 @@
+<div class="step-text">
+<p></p>
+<p>Will this code have a compilation issue?</p>
+<pre><code class="language-java">public class TypeCheckingDemo {
+    public static void main(String[] args) {
+        Object obj = " ";
+
+        if (obj instanceof String str || str.length() &gt; 0) {
+            if (str.isBlank()) {
+                System.out.println("The variable contains only a whitespace");
+            }
+        }
+    }
+}</code></pre>
+</div>

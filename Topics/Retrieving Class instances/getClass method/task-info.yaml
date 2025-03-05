@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: This code will not compile
+  - text: int
+  - text: java.lang.Integer
+  - text: class java.lang.Class
+  - text: java.lang.NullPointer exception will be thrown
+  - text: java.lang.NoClassDefFoundError will be thrown
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2934#comment
+status: Solved
+record: -1
+local_check: false

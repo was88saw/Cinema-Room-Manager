@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The anonymous class is behaving as a concrete implementation of the SomeInterface
+      interface.
+  - text: The anonymous class can&#x27;t implement the SomeInterface interface.
+  - text: The code will not compile because anonymous classes can’t access variables
+      from the enclosing scope.
+  - text: "The return type of method() doesn&#x27;t match the data type of x, hence\
+    \ this will cause a compile-time error."
+  - text: "The code will run without errors, returning the value of x when method()\
+    \ is invoked on si due to the anonymous class&#x27;s access to final variables\
+    \ in its enclosing scope."
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31419#comment
+status: Solved
+record: -1
+local_check: false

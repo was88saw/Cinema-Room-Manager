@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: the statement <b>a.getClass() == A.class</b> returns <b>true</b>
+  - text: the statement <b>a instanceof A</b> returns <b>true</b>
+  - text: the statement <b>a instanceof B</b> returns <b>true</b>
+  - text: the statement <b>a.getClass() == B.class</b> returns <b>false</b>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3084#comment
+status: Solved
+record: -1
+local_check: false

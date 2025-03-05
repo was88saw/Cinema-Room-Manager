@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '"Hello World!" Notification interface is implemented first'
+  - text: Compilation error. The compiler detects ambiguity
+  - text: Runtime error. The interpreter cannot decide what implementation to use
+  - text: '"Attention". Alarm interface is implemented last'
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11358#comment
+status: Solved
+record: -1
+custom_name: What is the result?
+local_check: false

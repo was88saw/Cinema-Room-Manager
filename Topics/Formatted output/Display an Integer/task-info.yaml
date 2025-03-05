@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '%d'
+  - text: '%c'
+  - text: '%i'
+  - text: '%f'
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7047#comment
+status: Solved
+record: -1
+local_check: false

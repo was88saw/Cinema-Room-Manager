@@ -1,0 +1,22 @@
+type: matching
+custom_name: What are we implementing now?
+captions:
+  - "class Task implements Question {}"
+  - "interface Question {}"
+  - "class Task {}"
+options:
+  - Allows declared class use all the properties and methods of the Question interface
+  - Interface declaration. Multiple classes now can implement and build functionality
+    based on this interface
+  - Declaring class without interface inheritance
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45668#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

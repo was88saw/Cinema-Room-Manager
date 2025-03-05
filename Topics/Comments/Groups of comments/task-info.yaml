@@ -1,0 +1,20 @@
+type: matching
+captions:
+  - // a comment
+  - /* a comment */
+  - /** a comment */
+options:
+  - For short explanations or to deactivate a single code line
+  - For official code documentation using javadoc
+  - For detailed notes or disabling code sections
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2499#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

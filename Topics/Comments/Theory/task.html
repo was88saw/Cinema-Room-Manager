@@ -1,0 +1,49 @@
+<div class="step-text">
+<p>Inside a Java program, you can write a special text that will be ignored by the Java compiler — known as the <strong>comment</strong>. Comments allow you to exclude code from the compilation process (disable it) or clarify a piece of code to yourself or other developers. In our materials, we use comments in the theory and practice lessons to explain how and why our code works.</p>
+<p>The Java programming language supports three kinds of comments.</p>
+<h5 id="end-of-line-comments">End-of-line comments</h5>
+<p>The Java compiler ignores any text from <code class="language-java">//</code> to the end of the line.</p>
+<pre><code class="language-java">class Program {
+    public static void main(String[] args) {
+        // The line below will be ignored
+        // System.out.println("Hello, World");
+        // It prints the string "Hello, Java"
+        System.out.println("Hello, Java"); // Here can be any comment
+    }
+}</code></pre>
+<p>In the example above the text after <code class="language-java">//</code> is ignored by the compiler.</p>
+<h5 id="multi-line-comments">Multi-line comments</h5>
+<p>The compiler ignores any text from <code class="language-java">/*</code> to the nearest <code class="language-java">*/</code>. It can be used for multiple and single-line comments.</p>
+<pre><code class="language-java">class Program {
+    public static void main(String[] args) {
+        /* This is a single-line comment */
+        /*  This is an example of
+            a multi-line comment */
+  }
+}</code></pre>
+<p>You can nest <a class="theory-lookup not-relevant" href="/learn/step/3520" target="_blank" title="In Java, an end-of-line comment is a type of comment that is used to exclude code from the compilation process or to clarify a piece of code to oneself or other developers. | It is a single line of text that follows a double slash (//) and extends to the end of that line. The Java compiler ignores any text from the double slash to the end of the line. End-of-line comments can be used for both single and multiple-line comments, and they can be nested inside multi-line comments.">end-of-line comments</a> inside <a class="theory-lookup not-relevant" href="/learn/step/3520" target="_blank" title="In Java, a multi-line comment is a type of comment that allows developers to include multiple lines of explanatory or descriptive text within their code. | The compiler ignores any text located between the delimiters /* and */, allowing for the inclusion of multiple lines of text within this block. This type of comment can be used for both single and multiple line comments, and can be nested within end-of-line comments.">multi-line comments</a>:</p>
+<pre><code class="language-java">class Program {
+    public static void main(String[] args) {
+        /*
+        System.out.println("Hello"); // print "Hello"
+        System.out.println("Java");  // print "Java"
+        */
+    }
+}</code></pre>
+<p>The part of the code above is ignored by the compiler because of the <code class="language-java">/* ... */</code> characters.</p>
+<h5 id="java-documentation-comments">Java documentation comments</h5>
+<p>The compiler ignores any text from <code class="language-java">/**</code> to <code class="language-java">*/</code> just like it ignores multi-line comments.</p>
+<p>These kinds of comments can be used to automatically generate documentation about your <a class="theory-lookup not-relevant" href="/learn/step/3520" target="_blank" title="In Java, a source code is the human-readable text version of a program written in the Java programming language. | It is typically stored in a file with a .java extension and can be edited using a text editor or an Integrated Development Environment (IDE). The source code is compiled by the Java compiler into bytecode, which is a low-level, platform-independent representation of the program. This bytecode can then be executed by the Java Virtual Machine (JVM) on any platform that has a JVM installed. The source code can also be decompiled back into readable Java code using a decompiler.">source code</a> by using the<strong> <a class="theory-lookup not-relevant" href="/learn/step/3520" target="_blank" title="In Java, a Javadoc is a special type of comment used to provide detailed explanations and descriptions of classes, interfaces, methods, and other program elements. | These comments are written in a specific format, often including special labels such as @param or @return, and are used by the Javadoc tool to automatically generate API documentation for the program. Documentation comments are placed above the declaration of the program element they are describing and are ignored by the Java compiler during the compilation process. Javadoc comments can include special labels to control the tool, but they are optional.">javadoc</a> </strong>tool. Usually, these comments are placed above <a class="theory-lookup not-relevant" href="/learn/step/3520" target="_blank" title="In Java, a declaration is a statement that introduces a variable, method, or class into the program. | It specifies the type of the entity being declared, its name, and other relevant information such as access modifiers, return type (for methods), and initial values (for variables). For example, the declaration of a method may include its name, return type, access modifier, and parameter list. Declarations are essential for Java to understand the structure and behavior of the program. Incorrect declarations can lead to compilation errors. Java 10 introduced type inference, which allows developers to use the var keyword instead of a specific type, and the type is automatically inferred based on the assigned value.">declarations</a> of classes, interfaces, methods and so on. Some special labels such as <code class="language-java">@param</code> or <code class="language-java">@return</code> are often used for controlling the tool. However, they are optional and we will not deal with them for now. Just don't be surprised in case you see them.</p>
+<p>See the example below.</p>
+<pre><code class="language-java">class Program {
+    /**
+     * The main method accepts an array of string arguments
+     *
+     * @param args from the command line
+     */
+    public static void main(String[] args) {
+        // do nothing
+    }
+}</code></pre>
+<p>Do not be afraid if you have not understood <strong>the documentation comments</strong> completely. This will be considered in other topics.</p>
+</div>

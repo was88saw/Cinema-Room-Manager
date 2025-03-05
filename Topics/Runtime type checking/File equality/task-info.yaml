@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: txt.getClass() == File.class
+  - text: txt instanceof ImageFile
+  - text: img instanceof ImageFile
+  - text: txt.getClass() == TextFile.class
+  - text: img instanceof File
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3076#comment
+status: Solved
+record: -1
+local_check: false

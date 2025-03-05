@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: to speed up code execution
+  - text: to provide backward compatibility
+  - text: "to invoke code directly from an interface, without creating a class"
+  - text: to avoid code duplication
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11356#comment
+status: Solved
+record: -1
+custom_name: What is the reason for default methods?
+local_check: false
