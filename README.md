@@ -14,7 +14,7 @@ Executing program
 
 
 Authors
-Was88saW
+[Was88saW](https://github.com/was88saw)
 contact: Was88saw@gmail.com
 
 Inspiration, code snippets, etc.
