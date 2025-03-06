@@ -2,11 +2,13 @@ package Cinema;
 
 import java.util.Scanner;
 
-/* Simple program that manage seats in cinema romm.
+/*  Cinema Room Manager
+Simple program that manage seats in cinema romm.
  After getting 2 parametrs from user, irst number of rows, then number of seat in each row
  program make an array of seats in room, then prins programs menu.
  From that point user can reserve the seat, show occupaded seats, show statistics or quit
- Program runs until user chose to end it from the menu*/
+ Program runs until user chose to end it from the menu
+ Application was created with a java course on Hyperskill.org */
 
 public class Main {
     public static void main(String[] args) {
